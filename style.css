@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+        background-color: darkolivegreen;
+
+}
+iframe{
+    margin: 50px;
+}
+img{
+    transition: 0.1s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#apps{
+    background-color: lightblue;
+}
+#games{
+     background-color: lightpink;
+}
+#chatbots{
+        background-color: lightgreen;
+
+}
+h1{
+    text-decoration: underline;
+}
